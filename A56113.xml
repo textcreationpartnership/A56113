@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all ye who be called Baptists who call yourselves saints and church-members</title>
+            <author>Parker, Alexander, 1628-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56113</idno>
+            <idno type="STC">Wing P387</idno>
+            <idno type="STC">ESTC R28772</idno>
+            <idno type="EEBO-CITATION">10758901</idno>
+            <idno type="OCLC">ocm 10758901</idno>
+            <idno type="VID">45682</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45682)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1407:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all ye who be called Baptists who call yourselves saints and church-members</title>
+                  <author>Parker, Alexander, 1628-1689.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1657?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Alexander Parker.</note>
+                  <note>Imprint suggested by NUC pre-1956 imprints</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptists --  England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45682:1"/>
+            <pb n="1" facs="tcp:45682:1" rendition="simple:additions"/>
+            <head>To all ye who be called <hi>BAPTISTS,</hi> who call your ſelves Saints and Church-Members, I write theſe things unto you as by the Lord moved and inſtructed, that you may try and prove your ſelves with the Touchſtone of Truth, whe<g ref="char:EOLhyphen"/>ther you be ſo in deed and in truth, as you profeſs your ſelves to be in words.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Hriſt Jeſus the Son of Righteouſneſs,
+<note place="margin">
+                  <hi>Rom.</hi> 8.11. <hi>Iohn</hi> 17.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> is riſen from the dead, and is glorified with the Father with that eternal glory that he had with him before the world was made;
+<note place="margin">
+                  <hi>Eph.</hi> 2.5, 6.</note> and the Saints (who were raiſed from the dead, and quicken<g ref="char:EOLhyphen"/>ed by his living Spirit of Power) were made to ſit together in heavenly places in Chriſt Jeſus with the Fa<g ref="char:EOLhyphen"/>ther, and had fellowſhip with the Father and the Son,
+<note place="margin">1 <hi>John</hi> 1.3 <hi>Coll.</hi> 2.11, 12 &amp; 3.9, 10, 11.</note> having put off the body of the ſins of the fleſh, and the old man with his deeds, and having put on the new man, which is renew<g ref="char:EOLhyphen"/>ed in knowledge, after the Image of him that created him, where there is neither <hi>Greek</hi> nor <hi>Jew,</hi> Circumciſion, nor uncircumci<g ref="char:EOLhyphen"/>ſion, <hi>Barbarian, Scythian,</hi> bond nor free, but Chriſt is all, and <hi>in</hi> all.</p>
+            <p>This was the priviledge of the Saints,
+<note place="margin">1 <hi>John</hi> 3.8 <hi>Rom.</hi> 8.21 <hi>Rom.</hi> 6 13, 18, 22, 23 <hi>Heb.</hi> 12.14 <hi>John</hi> 13, 34, 35 <hi>Eph.</hi> 2.10 <hi>Eph.</hi> 4.22, 23, 24 1 <hi>Cor.</hi> 15.34</note> even freedom from the bondage and ſervitude of ſin, no more to yeild their members ſervants unto ſin and unrighteouſneſs, but unto purity and ho<g ref="char:EOLhyphen"/>lineſs, without which no man can ſee the Lord; and hereby they were known, even by their fruits of righteouſneſs, being made Gods Workmanſhip, created in Chriſt Jeſus unto good works, the Image of the Devil (as pride, covetouſneſs, ſelf-ſeeking, en<g ref="char:EOLhyphen"/>vy, wrath, and malice, and ſuch like) being defaced, and the I<g ref="char:EOLhyphen"/>mage of God (as meekneſs and humility, gentleneſs, patience, and long-ſuffering, truth and righteouſneſs, love, peace, joy, and true holineſs, and ſuch like, being) renewed in them. O friends awake and ariſe, and ſeek not the living amongſt the dead;
+<note place="margin">
+                  <hi>Eph.</hi> 1.20, 21 <hi>Eph.</hi> 2.15. <hi>Coll.</hi> 2.14. <hi>Heb.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.2.</note> the Lord is riſen, and aſcended far above all heavens, and hath abo<g ref="char:EOLhyphen"/>liſhed in his fleſh the enmity, the Law of Commandments con<g ref="char:EOLhyphen"/>tained in Ordinances, blotting out the hand-writing of Ordi<g ref="char:EOLhyphen"/>nances, and took it out of the way, nailing it to his croſs; He was, (and is) the ſubſtance of all Elementary ſhadows and fi<g ref="char:EOLhyphen"/>gures, and the glorious appearance of his light and power, doth
+<pb n="2" facs="tcp:45682:2"/>make the Elements to paſs, and the ſhadows to flye away; and <hi>there</hi> is the Saints union &amp; fellowſhip, in the <hi>Light,</hi> and walking therein,
+<note place="margin">1 <hi>Iohn</hi> 1.7. <hi>Rom.</hi> 8.7, 8. 2 <hi>Tim.</hi> 2.11, 12.</note> the blood (or life) of Jeſus clenſeth from all ſin &amp; the po<g ref="char:EOLhyphen"/>wer of the croſs of Chriſt crucifies that carnal mind w<hi rend="sup">ch</hi> is enmity againſt God, which feeds upon the carnal things and Elementa<g ref="char:EOLhyphen"/>ry ſhadows, and ſo the death of Chriſt, and crucifying with him, comes to be witneſſed by his followes,
+<note place="margin">
+                  <hi>Rom.</hi> 6.6. <hi>Rom</hi> 8.2.</note> who walk in the Light, and believes in the ſame; and being dead with Chriſt from the Rudiments and Elements of the world, cannot turn back and feed upon the ſhadow or figure, nor be ſubject to fading and carnal Ordinances; For (as ſaith the Apoſtle who came through the warfare,
+<note place="margin">
+                  <hi>Gal.</hi> 2.19, 20 <hi>Col.</hi> 2.20, 21, 22 <hi>Iohn</hi> 3.6. <hi>Rom.</hi> 8.8. 1 <hi>Iohn</hi> 2.15, 16, 17 2 <hi>Cor.</hi> 4 18</note> and was dead unto ſin, and crucified with Chriſt) <hi>If ye be dead with Christ from the rudiments of the world, why as though living in the world, are ye ſubject to Ordinances? Touch not, taste not, handle not, &amp;c.</hi> I know by the Spirit of the Lord, that it is the nature of man (being alive unto ſin, to himſelf, and to the world) to feed upon the viſible and fading things of the world, and ſo the carnal feeds upon the carnal; but <hi>all</hi> that is in the world, that are ſeen with a viſible eye, cannot ſatisfie the hungering deſires, nor quench the thirſtings of the weary Soul; but as man by the power of the croſs of Chriſt (which the true Diſciple muſt take up daily) comes to dye unto himſelf,
+<note place="margin">
+                  <hi>Luke</hi> 9.23, 24, 25, 26 <hi>Gal.</hi> 6.4, 15</note> and un<g ref="char:EOLhyphen"/>to ſin and evil, and to be crucified unto the world; he can no longer feed upon the fading ſhadows, nor periſhing things of the world,
+<note place="margin">
+                  <hi>Iohn</hi> 6.50, 51, <hi>to</hi> 59</note> but his food and bread is he who came down from above, who is the Saints bread, and their life, and he that eats of this bread, lives, and hath life in himſelf, and bread in his own houſe, and ſhall not hunger; and he that hath not this life, and this bread to feed upon, hath no true life nor bread that ſa<g ref="char:EOLhyphen"/>tisfies,
+<note place="margin">
+                  <hi>Iſa.</hi> 55.2</note> but is ſpending his money for that which is not bread, and his labour for that which doth not ſatisfie: So it is he that hath the Son,
+<note place="margin">1 <hi>Iohn</hi> 5.12</note> which hath life; but he that hath not the Son of God, hath not life.</p>
+            <p>You that have the Name of Chriſtians, and of Saints and Church-members, judge in your ſelves, and try with true Light whether you be ſo in truth,
+<note place="margin">1 <hi>Cor.</hi> 11.31, 32 <hi>Iohn</hi> 3.21 <hi>Eph.</hi> 5.13 2 <hi>Cor.</hi> 13.5 2 <hi>Cor.</hi> 5.17.</note> and have the nature and life of that which you profeſs the words of; it is indeed a high ſtate and condition to be a true Chriſtian; for to be a true Chriſtian, is to be in Chriſt, and if any be in Chriſt, he is a new creature; old things are paſſed away, (old heart, old love, and old life of ſin) &amp;
+<pb n="3" facs="tcp:45682:2" rendition="simple:additions"/>behold all things are become new, (new heart, new love, and new life, which is the life of Chriſt,
+<note place="margin">
+                  <hi>Col.</hi> 3.3, 4 <hi>Rom</hi> 8.10. <hi>Iohn</hi> 3.9 <hi>Gal.</hi> 3.23. <hi>Iohn</hi> 15.4, 5, 6 7 <hi>Matt.</hi> 7.13, 14</note> who is the life of every true Chriſti<g ref="char:EOLhyphen"/>an;) &amp; this life is ſins death, <hi>For if Christ be in you, the body is dead becauſe of ſin;</hi> and in this <hi>life</hi> is the Saints oneneſs, and out of this life is no unity; but all ſuch are in a ſtrife and contention about the words and practiſes of thoſe who were in this new life, and falls out about the meanings, and ſo are divided into Sects and Opinions, and many Religions, (as they are called) as is manifeſt at this day in theſe Nations, many thouſands have got the Name and Profeſſion of Truth and Chriſtianity in words outwardly,
+<note place="margin">
+                  <hi>Pſal.</hi> 14.2, 3</note> but a very few there be that are poſſeſſors of the life of Truth inwardly, as the Fruits make manifeſt, and the Towns and Streets declare. The eternal Eye is open, and the Lord is come to view your fields, and to look for Fruits, but his Garden is overgrown, Weeds, Briars and Thorns,
+<note place="margin">
+                  <hi>Heb.</hi> 6, 7. 8 <hi>Iohn</hi> 5 41, 44</note> &amp; fruitleſs Trees cumbers the ground: Ye proud ones that are ſo highly exalted, ſeeking honor one of another, ye cumber the ground,
+<note place="margin">
+                  <hi>Iſa</hi> 28.1 <hi>Iam</hi> 5.1, 2, 3, 5 1 <hi>Cor.</hi> 6.10 <hi>Iſa.</hi> 5 8 <hi>Iames</hi> 1.26</note> and wo is your portion, your profeſſion will not cover you, ye covetous ones, who are griping for the earth, whoſe hearts are even ſet thereon, ſtriving and endeavouring by all your wit and policy to compaſs riches, and ſo to become great in the Earth; ye cum<g ref="char:EOLhyphen"/>ber the ground, ye envious bitter ſpirited ones, ye cumber the ground; ye who are at liberty to ſpeak your own words, to think your own thoughts, and do your own works, whoſe tongues be at liberty, and carnal minds at liberty, you are in the broad way, and your Religion is vain, where the tongue is not bridled,
+<note place="margin">
+                  <hi>Hoſ.</hi> 4.1, 2, 3 <hi>Iſa.</hi> 2.1, 9 <hi>Iſa,</hi> 58.2, 3 <hi>Pſal.</hi> 66.18 <hi>Jer.</hi> 5.23, 24, 25, 26 <hi>Gal.</hi> 6.7. 1 <hi>Pet.</hi> 3.21.</note> ye cumber the ground. Oh! the Land mourns, and the Earth is polluted with corruption; thus ſaith the Lord, Pride and vain<g ref="char:EOLhyphen"/>glory, ſelf-ſeeking, earthly honor and preferment, and reſpect<g ref="char:EOLhyphen"/>ing perſons, is found amongſt you, (called Church-members) envy, and bitterneſs of ſpirit; you have made a ſhew and pro<g ref="char:EOLhyphen"/>feſſion of my Name outwardly in words, but deceit and iniqui<g ref="char:EOLhyphen"/>ty lodgeth and is regarded in your hearts, and your ſins have ſe<g ref="char:EOLhyphen"/>perated between you and me, ſaith the Lord. Oh lay things to heart, and deceive not your ſelves with a vain hope; for it is not the outward Name, nor the outward waſhing that doth make a true Chriſtian, no more then the outward Name, and the out<g ref="char:EOLhyphen"/>ward Circumciſion did make a true <hi>Jew;</hi> For as the Apoſtle by the ſpirit of the Lord ſaid, <hi>He is not a Iew which is one outwardly,
+<note place="margin">
+                     <hi>Rom.</hi> 2.28, 29</note> neither is that the Circumciſion which is outward in the fleſh; but he
+<pb n="4" facs="tcp:45682:3"/>is a Jew which is one inwardly, and Circumciſion is that of the heart, with the Spirit:</hi> Even ſo by the Spirit of the Lord I ſay unto you, That he is not a Chriſtian which is one outwardly, which hath the Name onely;
+<note place="margin">
+                  <hi>Gal.</hi> 3.27. 1 <hi>Cor.</hi> 12.13. <hi>Heb.</hi> 10.19; 20, 21, 22.</note> neither is that the Baptiſm which is outward with Water; but he is a Chriſtian who is in Chriſt, and Baptiſm is that of the Spirit, having the heart ſprinkled from an evil con<g ref="char:EOLhyphen"/>ſcience, and the body waſhed with pure Water; For as many as are baptized into Chriſt, have put on Chriſt, &amp; are one in Chriſt.</p>
+            <p>But all that are ſprinkled or dipped and plunged in Water, are not <hi>one,</hi> but many differences there be amongſt them about theſe outward things,
+<note place="margin">
+                  <hi>Gal.</hi> 3.27, 28.</note> which the kingdom of God doth not ſtand nor conſiſt in, as I know you are in ſome meaſure ſenſible of it; out<g ref="char:EOLhyphen"/>ward Water can do no more then waſh and cleanſe the outſide, it cannot cleanſe the heart from ſin;
+<note place="margin">
+                  <hi>Matt.</hi> 5.20.</note> ſo that outward waſhing is but a figure of the inward waſhing, as other figures are, which I own all in their time and place; but figures and parables are to the World,
+<note place="margin">2 <hi>Cor.</hi> 3.13, 14, 15, 16. <hi>Coll.</hi> 1.26. <hi>Gal.</hi> 1.16. 1 <hi>Cor.</hi> 1.30. <hi>Col.</hi> 3.11.</note> and them that underſtand not the myſterie; For the Vail being over the heart, the myſterie is hid, as it was all the time of the Law; but as the Power of God doth ariſe, it rends the Vail, and the myſterie is opened, and the Son of God revea<g ref="char:EOLhyphen"/>led <hi>within,</hi> the <hi>Emanuel,</hi> God with us, who is the Wiſdom and the Righteouſneſs, the <hi>Life, Light,</hi> and <hi>Leader, Bread, Wine,</hi> and <hi>Water,</hi> and all other things <hi>he</hi> is made to the Saints.</p>
+            <p>And as for that Scripture, <hi>Matth.</hi> 28.19. which you call the Command for Water-baptiſm, (though Water is not there men<g ref="char:EOLhyphen"/>tioned) I ſay, If that had been of force, and extended unto all, then why was it not binding unto <hi>Paul,</hi> who was called into the Miniſtry after that, who was a true Miniſter of the Goſpel, and yet he ſaith plainly,
+<note place="margin">1 <hi>Cor.</hi> 1.17.</note> Chriſt ſent him not to baptize, but to preach the Goſpel,
+<note place="margin">
+                  <hi>Eph.</hi> 4.4, 5, 6.</note> and he ſaith, There is <hi>one</hi> Body, and <hi>one</hi> Spirit, <hi>one</hi> Lord, <hi>one</hi> Faith, <hi>one</hi> Baptiſm; he brings them from the many, to the <hi>one,</hi> and this <hi>one</hi> I own, which brings people into <hi>one,
+<note place="margin">
+                     <hi>Acts</hi> 4 32. <hi>Rom.</hi> 8 39.</note> one</hi> heart, <hi>one</hi> mind, <hi>one</hi> ſoul, where the unity ſtands unſepe<g ref="char:EOLhyphen"/>rable in the <hi>one</hi> Spirit of Love:</p>
+            <p>And as concerning thoſe words which Chriſt ſaid to his Diſci<g ref="char:EOLhyphen"/>ples at the eating of the Paſsover,
+<note place="margin">
+                  <hi>Iohn</hi> 6.27.</note> 
+               <hi>This do in remembrance of me;</hi> I own;
+<note place="margin">
+                  <hi>Iohn</hi> 14. <hi>chap.</hi>
+               </note> he ſaith unto his Diſciples, <hi>I go away a little while, but I come again unto you and ye ſhall know that I am in the Father, &amp; you in me, and I in you, &amp;c.</hi> So in the time of his abſence that was to be done in remembrance of him, but when he was come, he was their
+<pb n="5" facs="tcp:45682:3"/>bread, and they fed upon him; and he was their Paſtor &amp; Teacher.
+<note place="margin">1 <hi>Iohn</hi> 5.19, 20 <hi>Col</hi> 2.19. <hi>Iohn</hi> 10.14. 1 <hi>Cor.</hi> 11.</note>
+            </p>
+            <p>And whereas <hi>Paul</hi> ſaith to the <hi>Corinthians, What I have recei<g ref="char:EOLhyphen"/>ved of the Lord, that do I deliver unto you, That the Lord Ieſus the ſame</hi> Night <hi>that he was betrayed, took bread,</hi> [take notice, this was done in the night] <hi>and when he had given thanks, he brake it, &amp;c. for as often as ye do eat this Bread, and drink this Cup, ye do ſhew the Lords death till he come.</hi> Read 1 <hi>Cor.</hi> 10 16.17. Now the Apoſtle de<g ref="char:EOLhyphen"/>clares that he could not ſpeak unto them as unto ſpiritual,
+<note place="margin">1 <hi>Cor.</hi> 3.1, 2, 3. <hi>Iohn</hi> 6 53, 60, 63, 66.</note> but as unto carnal, even as unto Babes in Chriſt; and ſaith he, <hi>I have fed you with milk, and not with meat, for hitherto ye were not able to bear it, neither yet now are you able;</hi> So that it is plainly manifeſt, they could not bear what the Apoſtle had to declare, like unto thoſe who had eaten of the loaves, but when Chriſt ſpoke unto them of the Myſterie, ſaying, <hi>Except ye eat my fleſh, and drink my blood, ye have no life in you,</hi> they ſtumbled at this <hi>Saying,</hi> and went back, &amp; walked with him no more. So <hi>Paul</hi> came down and fed them with ſuch meat as they were able to diſgeſt,
+<note place="margin">2 <hi>Cor.</hi> 12.16.</note> according to the Wiſdom of God given him, he caught them by guile, coming down to their weak capacities, and became all to all, (in the truth) that he might win ſome; but after this he tells the <hi>Corinthians,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 12.31.</note> that yet he ſhews them a more excellent way, and ſo in his ſecond E<g ref="char:EOLhyphen"/>piſtle he brings them nearer, and draws them from the viſibles to the inviſible, the <hi>Light</hi> which ſhined <hi>within,</hi> and ſaid, <hi>We have this treaſure in earthen Veſſels,
+<note place="margin">2 <hi>Cor.</hi> 4. <hi>chap.</hi>
+                  </note> that the excellency of the Power may be of God, and not of us; We are troubled on every ſide, yet not diſtreſ<g ref="char:EOLhyphen"/>ſed; we are perplexed, but not in deſpair; perſecuted, but not forſaken; caſt down, but not deſtroyed, alwayes bearing about in the body, the dy<g ref="char:EOLhyphen"/>ing of the Lord Ieſus,</hi> [here is a true Remembrance] <hi>that the life alſo of Ieſus might be made manifeſt in our body, for we which live, are alwayes delivered unto death for Ieſus ſake, that the</hi> life <hi>alſo of Ieſus might be made manifeſt</hi> in <hi>our mortal fleſh,</hi> [mind that] <hi>which</hi> life <hi>is a pure harmleſs, upright, &amp; perfect</hi> life, <hi>which</hi> life <hi>is made manifeſt,
+<note place="margin">
+                     <hi>Heb.</hi> 13.8.</note> the ſame to day as ever, which draws us from, &amp; out of viſible fading things, which are temporal, to look at things inviſible &amp; eternal, accor<g ref="char:EOLhyphen"/>ding as it is written, While we look not at thing which are</hi> ſeen, <hi>but at the things which are not ſeen; for the things which are</hi> ſeen,
+<note place="margin">2 <hi>Cor.</hi> 4.18.</note> 
+               <hi>are tem<g ref="char:EOLhyphen"/>poral, but the things which are not</hi> ſeen, <hi>are eternal.</hi> Here you may ſee the Apoſtle brings them off the fading <hi>ſhadows,</hi> to look at things <hi>eternal.</hi> Now try your wayes, &amp; ſee whether or no you be not looking at things <hi>ſeen,</hi> and feeding on the viſibles, which are
+<pb n="6" facs="tcp:45682:4"/>temporal, which in time fades away, as Bread, Wine, &amp; Water, which all periſh with the uſing; &amp; the Writings viſible will ſade away,
+<note place="margin">
+                  <hi>Col.</hi> 2.20, 21, 22 2 <hi>Pet.</hi> 1.19, 20 1 <hi>Pet.</hi> 1.22, 23, 24, 25 <hi>John</hi> 15.5, 6, 7</note> but the inviſible and ſpiritual <hi>Word of life</hi> (which was with<g ref="char:EOLhyphen"/>in the holy men of God, from which the viſible Writings were gi<g ref="char:EOLhyphen"/>ven forth) doth abide and endure for ever; &amp; except this <hi>Word</hi> be ingrafted in your hearts, and abide in you, you cannot be ſaved, though you may have all the words &amp; writings of the holy men, and therefore the Apoſtle brings them to the proof &amp; trial, whe<g ref="char:EOLhyphen"/>ther or no they were in the Faith, and whether or no <hi>Chriſt</hi> was come;
+<note place="margin">2 <hi>Cor.</hi> 13.5</note> for ſaith he, <hi>Know you not your own ſelves, how that Ieſus Chriſt is</hi> in you <hi>except ye be reprobates?</hi> And <hi>Iohn</hi> the Apoſtle in his Epi<g ref="char:EOLhyphen"/>ſtle declares that Chriſt was come,
+<note place="margin">1 <hi>Iohn</hi> 5 19, 20 <hi>Col.</hi> 1.26, 27, 28, 29</note> ſaying, <hi>We know that the Son of God</hi> is <hi>come, &amp; hath given to us an underſtanding to know him that is true; &amp; we are</hi> in <hi>him</hi> [mind that] <hi>that is true, even in his Son</hi> Chriſt Jeſus; &amp; this was the great <hi>Myſtery</hi> which was hid from former a<g ref="char:EOLhyphen"/>ges, which was manifeſted <hi>to</hi> (&amp; <hi>in</hi>) the Saints, &amp; is again appear<g ref="char:EOLhyphen"/>ing in this the Lord's day, glory to his Name for evermore; and this was a fulfilling of the prayer of <hi>Christ</hi> before he was ſacrifi<g ref="char:EOLhyphen"/>ced up, he prayed to his Father that all thoſe who through the <hi>word</hi> of his true Miniſters did believe on him, <hi>That they all may be one,
+<note place="margin">
+                     <hi>Iohn</hi> 17.17, 18, 19, 20, 21, 22.</note> even as thou Father art in me, &amp; I in thee, that they alſo may be one in us, that the world may believe that thou haſt ſent me; and the glory which thon gaveſt me, I have given them, that they may be</hi> one, <hi>even as we are</hi> one; <hi>I</hi> in them, <hi>&amp; thou in me, that they may be made perfect in one;</hi> &amp; this (as I have ſaid) was fulfilled in the Saints, and what was written by them, was to bring to this unity, as the Apo<g ref="char:EOLhyphen"/>ſtle ſaith,
+<note place="margin">1 <hi>Iohn</hi> 1.3, 4 <hi>Verſe</hi> 5 <hi>Iohn</hi> 8.12 1 <hi>Iohn</hi> 1.7. 1 <hi>Iohn</hi> 2.20.27</note> 
+               <hi>Theſe things I write unto you, that your fellowſhip might be with us, and truly our fellowſhip is with the Father, &amp; with his Son Chriſt Ieſus;</hi> and God is light, and Chriſt declares himſelf to be the <hi>light of the world;</hi> &amp; the Saints fellowſhip was in the <hi>Light;</hi> &amp; <hi>Iohn</hi> ſaith likewiſe unto them, <hi>Ye have an unction from the holy one, &amp; ye know all things, &amp;c.</hi> And the <hi>annointing</hi> that ye have received of him, abideth <hi>in you,</hi> &amp; you need not that any man teach you, but as the ſame <hi>anointing</hi> teacheth you of all things, which is <hi>truth</hi> &amp; no <hi>lye,</hi> &amp; even as it hath taught you, ſo ye ſhal continue in him.</p>
+            <p>And concerning breaking of <hi>bread,</hi> the Apoſtle declared what that <hi>bread</hi> was which they broke, the Cup of bleſſing; which we bleſs,
+<note place="margin">1 <hi>Cor.</hi> 10.16, 17</note> it is not the Communion of the blood of Chriſt? the <hi>bread</hi> which we break, Is it not the Communion of the body of Chriſt? for we being many are one <hi>bread</hi> and one <hi>body;</hi> this <hi>bread</hi> is not
+<pb n="7" facs="tcp:45682:4" rendition="simple:additions"/>
+               <hi>carnal</hi> (for many eat that,
+<note place="margin">
+                  <hi>Iohn</hi> 6.50 <hi>to</hi> 57</note> but are not one) but this <hi>bread</hi> is <hi>ſpiritu<g ref="char:EOLhyphen"/>al</hi> it is <hi>Chriſt,</hi> in whom the Saints <hi>are one,</hi> who is the <hi>bread of life,</hi> as it is teſtified of him; <hi>I am</hi> the <hi>bread</hi> of life, <hi>I am the living bread that came down from above, he that eats of this bread ſhall live <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ever.</hi>
+            </p>
+            <p>
+               <hi>Chriſt Jeſus</hi> is called by ſeveral <hi>names</hi> in the Scriptures,
+<note place="margin">1 <hi>Cor</hi> 2.11.12 <hi>Mat.</hi> 22.29: 1 <hi>Cor.</hi> 8.4, 5, 6 <hi>Rom</hi> 18.3.4 2 <hi>Cor.</hi> 15.21</note> and thoſe who have the <hi>names,</hi> and are not guided by the ſame ſpirit that gave forth thoſe <hi>names,</hi> are in the error, and ſtrife, and falls out about the <hi>words</hi> and <hi>names;</hi> but though his <hi>names</hi> are <hi>many,</hi> yet his power and life of puritie is but <hi>one;</hi> and except this <hi>power</hi> and <hi>life</hi> be manifeſt <hi>in you,</hi> to deſtroy <hi>ſin,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 5.20 <hi>Iſa.</hi> 30.1 <hi>Acts</hi> 2.46</note> in vain will all your talking and profeſſion be; for wo is and will be the Porti<g ref="char:EOLhyphen"/>on of all thoſe who be covered with a covering, and not with the covering of Gods holy Spirit: Yet breaking of bread out<g ref="char:EOLhyphen"/>wardly I do not deny, but own it in the Covenant of Love, breaking bread from houſe to houſe, and eating together with ſingleneſs of heart, where the word of God is known,
+<note place="margin">
+                  <hi>Iames</hi> 1.21, 22 23, 24</note> and re<g ref="char:EOLhyphen"/>ceived, and dwelt in, which doth purifie the heart; and ſo to the pure all things are pure,
+<note place="margin">
+                  <hi>Titus</hi> 1.15.16</note> but to the unbelieving and diſobedient there is nothing pure, but even their minds &amp; conſciences are de<g ref="char:EOLhyphen"/>filed, and the words and prayers of ſuch are abomination to the Lord; for he cannot away with a polluted Sacrifice:
+<note place="margin">
+                  <hi>Mal.</hi> 1.8, 9, 1 <hi>Tim.</hi> 2.11 <hi>Jam.</hi> 5.16 <hi>Iohn</hi> 9.31</note> Therefore I ſay with the Apoſtle, <hi>I will that men pray, lifting up holy hands, without wrath and doubting;</hi> for the prayers of the righteous avails much, but we know that God heareth not <hi>ſinners;</hi> therefore let every one that <hi>nameth the name of Chriſt Jeſus,
+<note place="margin">2 <hi>Tim.</hi> 2.19</note> depart from iniqui<g ref="char:EOLhyphen"/>ty;</hi> for <hi>ſin</hi> is the cauſe of alienation and ſeperation from God, e<g ref="char:EOLhyphen"/>ven your <hi>ſins;</hi> your <hi>ſins</hi> have made a ſeperation between you &amp; me, ſaith the <hi>Lord:</hi> Therefore bring no more vain oblations,
+<note place="margin">
+                  <hi>Iſa.</hi> 1.13</note> offer no more your hypocritical feigned cryes of confeſſion of ſin,
+<note place="margin">
+                  <hi>Prov.</hi> 28.13</note> but from the bottom of your hearts confeſs and forſake your ſins, and ſo ſhall you find mercy,
+<note place="margin">i <hi>Cor.</hi> 3. ii i <hi>Cor.</hi> 10.4</note> and come to the ground and true foundation, <hi>Chrſt Ieſus,</hi> the rock and corner ſtone, and mind <hi>his light</hi> that doth diſcover and make your <hi>ſins</hi> manifeſt in its firſt riſe and conception,
+<note place="margin">
+                  <hi>Eph.</hi> 5:13 <hi>Iſa:</hi> 40:31 1 <hi>Iohn</hi> 3: 8</note> and in that ſame light wait upon the <hi>Lord</hi> for power, that it may be deſtroyed; for for this end and purpoſe was the <hi>Son of God</hi> made manifeſt, that he might deſtroy the works of the Devil; and all <hi>ſin</hi> is a work of the Devil, and is con<g ref="char:EOLhyphen"/>ceived in the heart, and doth defile the heart,
+<note place="margin">
+                  <hi>Iam:</hi> 1: i4, i5 <hi>Mat.</hi> 15.18, i9 <hi>Iohn</hi> 15.3, 4, 5, 6. <hi>Mat.</hi> 23.26</note> and ſeperates from God, and breaks the peace with God; &amp; if ever you come to wit<g ref="char:EOLhyphen"/>neſs redemption, it muſt be wrought <hi>within you</hi> by <hi>Chriſt</hi> the <hi>light;</hi> for as the work of the Devil is <hi>within,</hi> ſo muſt alſo the work of
+<pb n="8" facs="tcp:45682:5"/>Chriſt be <hi>within,</hi>
+               <note place="margin">
+                  <hi>Iohn</hi> 15.3</note> to deſtroy the Devils work, and ſo to purifie the heart, and purge the conſcience from dead works, and ſo to make the body a habitation of holineſs for God to dwell in.
+<note place="margin">
+                  <hi>Heb.</hi> 9.14 1 <hi>Cor.</hi> 3.16.17.</note> Therefore in the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar of God I do exhort you all, to return to the <hi>Lord,</hi> &amp; mind the meaſure of true light, which manifeſteth ſin, &amp; reproves you for it,
+<note place="margin">
+                  <hi>Iohn</hi> 1.9. <hi>Eph.</hi> 5.13: <hi>Mat</hi> 3.10. <hi>Mat.</hi> 23.26 <hi>Iſa.</hi> 26: 9.</note> though never ſo cloſely committed, and therein wait upon the <hi>Lord,</hi> that the <hi>Axe</hi> may be laid to the root of the <hi>Tree,</hi> that ſo according to <hi>Chriſt</hi> his exhortation, you may <hi>firſt</hi> cleanſe the <hi>inſide,</hi> and ſo know the Lord as a righteous Judge, executing true judgement upon every evil thought, evil motion, or evil de<g ref="char:EOLhyphen"/>ſire, or vile affection that ariſeth out of the evil heart; for thus the Lord is known in truth and righteouſneſs, even by his work<g ref="char:EOLhyphen"/>ing power in the <hi>inward man,</hi>
+               <note place="margin">
+                  <hi>Mal.</hi> 3 2, 3. <hi>Pſalm.</hi> 51.17.</note> purifying the heart by his <hi>word</hi> of truth; and ſo a true and living ſacrifice is offered up unto the <hi>Lord,</hi> even the ſacrifice of a broken heart, and of a contrite ſpirit, which is,
+<note place="margin">
+                  <hi>Pſalm.</hi> 51.6.</note> and was ever acceptable in the eyes of the Lord; for it is <hi>truth</hi> in the invvard <hi>parts</hi> which the Lord loves and deſires; &amp; to draw nigh unto God with lips,
+<note place="margin">
+                  <hi>Iſa.</hi> 29.13.14.</note> &amp; mouths, but hearts afar off, is that which the Lord loaths, and that which he ſent his true ſer<g ref="char:EOLhyphen"/>vants to teſtifie againſt:
+<note place="margin">
+                  <hi>Iſa.</hi> 54.13. <hi>Iohn.</hi> 6.45.</note> The Lord is come, and coming to teach his people himſelf freely by his ſpirit, and to fulfil his promiſes made of old: <hi>Let him that hath an ear, hear what the ſpirit ſaith un<g ref="char:EOLhyphen"/>to the Churches;
+<note place="margin">
+                     <hi>Rev.</hi> 2.</note> Build not upon the water, for that is moveable; neither upon the ſand,
+<note place="margin">
+                     <hi>Mat.</hi> 7.24.25.26.27.</note> for that will not ſtand in the ſtorm; but come out of the water, and build upon the unmoveable rock that will abide, and not be moved, nor ſhaken with a ſtorm:</hi> Read in the <hi>Myſtery,</hi> and the Lord give all ſimple honeſt hearts an underſtanding: for it is for their ſakes that this was written, for whom my ſoul-breaths and longs after,
+<note place="margin">
+                  <hi>Luke</hi> 15.17 <hi>Iſa.</hi> 55.1, 2 <hi>Mat.</hi> 11 28.39</note> &amp; do hereby call &amp; invite all the hungry freely to come <hi>into</hi> my <hi>fathers houſe,</hi> where they ſhal find ful ſatisfaction &amp; drink free<g ref="char:EOLhyphen"/>ly at the pure fountain of the fathers love, which alone can ſa<g ref="char:EOLhyphen"/>tisfie the hungry, thirſting ſouls. <hi>Iohn</hi> 4.13.14.</p>
+            <p>
+               <hi>Read with underſtanding, prove all things, hold faſt that which is good,</hi> 1 <hi>Theſ.</hi> 5.21. <hi>To the witneſs of God in you all I ſpeak and appeal, which reproves you in ſe<g ref="char:EOLhyphen"/>cret for your ſecret iniquities and calls unto you for amendment of life: Haſte and a<g ref="char:EOLhyphen"/>mend your lives, and return at the Lords reproof, and no longer provoke him to anger, least he caſt you off for ever; for the Lord hath ſaid, My Spirit ſhal not alwayes ſtrive with man.</hi>
+            </p>
+            <p>
+               <hi>To day, while it is called to day, harden not your hearts.</hi>
+            </p>
+            <closer>
+               <signed>VVritten in obedience to the ſpirit of the Lord, in love to all your ſouls, by a ſervant of the Lord, and labourer in his Vineyard, who is known to the world by the name of ALEXANDER PARKER.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:45682:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
